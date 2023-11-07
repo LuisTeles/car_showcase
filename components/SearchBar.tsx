@@ -44,7 +44,7 @@ const SearchBar = ({ setManufacturer, setModel }) => {
         />
         <SearchButton otherClasses='sm:hidden' />
       </div>
-      <div className='searchbar__item'>
+      <div className='searchbar__item '>
         <Image
           src='/model-icon.png'
           width={25}
